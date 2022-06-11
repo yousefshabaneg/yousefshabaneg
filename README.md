@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Shaban Mostafa</h1>
 <h3 align="center">A Flutter Mobile Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefshabaneg&label=Profile%20views&color=0e75b6&style=flat" alt="yousefshabaneg" /> </p>
-
 <p align="left"> <a href="https://twitter.com/yousefshabaneg" target="blank"><img src="https://img.shields.io/twitter/follow/yousefshabaneg?logo=twitter&style=for-the-badge" alt="yousefshabaneg" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Development, ASP.NET Track**

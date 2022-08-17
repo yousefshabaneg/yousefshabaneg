@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yousefshabaneg" target="blank"><img src="https://img.shields.io/twitter/follow/yousefshabaneg?logo=twitter&style=for-the-badge" alt="yousefshabaneg" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development, ASP.NET Track**
+- 🌱 I’m currently learning **Mobile Development, Web Development**
 
 - 👯 I’m looking to collaborate on **Mobile Applications Ideas**
 

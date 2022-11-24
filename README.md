@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yousef Shaban Mostafa</h1>
-<h3 align="center">A Flutter Mobile Developer from Egypt</h3>
+<h3 align="center">A Software Engineer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/yousefshabaneg" target="blank"><img src="https://img.shields.io/twitter/follow/yousefshabaneg?logo=twitter&style=for-the-badge" alt="yousefshabaneg" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Development, Web Development**
 
-- 👯 I’m looking to collaborate on **Mobile Applications Ideas**
+- 👯 I’m looking to collaborate on **Web and Mobile Applications Ideas**
 
 - 📫 How to reach me **yousefshaban.eg@gmail.com**
 

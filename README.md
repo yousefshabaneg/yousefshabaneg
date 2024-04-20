@@ -1,26 +1,69 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=64&duration=3000&pause=500&color=F7B916&center=true&vCenter=true&width=1450&height=200&lines=Hi+there!;It's+Yousef+Shaban;Full+Stack+Developer+(MERN+Stack);Take+a+tour+of+my+Repos;Have+a+Nice+time)](https://github.com/yousefshabaneg?tab=repositories)
+# Youssef Shaaban Mustafa
+## Software Engineer | Backend Developer | Nodejs Developer
 
-# 💫 About Me:
-🔭 I’m currently working with JavaScript, Typescript, Nodejs, Express.Js, Nest.Js, SQL.<br>🌱 I’m currently Improve my skills in backend development.<br>💬 Ask me about anything mailto:yousefshaban.eg@gmail.com
-<br>
-My Resume: [https://bit.ly/3M1uPCj](https://bit.ly/43EaQkz)
+- Phone: +201272220764
+- Email: yousefshaban.eg@gmail.com
+- Resume: [Youssef_Shaaban_SWE_Resume](https://bit.ly/3w3DteJ)
+---
 
+## Profile Summary
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yousefshabaneg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefshabaneg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yousefshabaneg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yousefshabaneg) 
+Motivated Junior Software Engineer with a passion for backend development and a strong foundation in Node.js technologies. Eager to transition into a Node.js Developer role to deepen expertise in backend development and contribute to innovative projects. Proficient in building RESTful APIs, utilizing technologies like Express.js and MongoDB for efficient data storage and retrieval. Skilled in frontend development with React.js, HTML, CSS, and Bootstrap, ensuring seamless user experiences. Demonstrated ability to collaborate effectively within teams, communicate technical concepts clearly, and adapt to new challenges. Committed to continuous learning and professional growth, with a Bachelor's degree in Computer and Automatic Control Engineering providing a solid technical background. Excited to leverage my skills and enthusiasm for Node.js development to make meaningful contributions in a dynamic software engineering environment.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yousefshabaneg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yousefshabaneg&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefshabaneg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yousefshabaneg&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+## Professional Skills
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousefshabaneg) 
+- Programming Languages: JavaScript, TypeScript
+- Backend Development: Node.js, Express.js, Nest.js
+- API Development: RESTful API
+- Frontend Development: HTML, CSS, Bootstrap
+- Real-Time Communication: Socket.IO
+- Software Development Life Cycle (SDLC)
+- Databases: MySQL, MSSQL, MongoDB, Mongoose (ODM for MongoDB)
+- Data Structures and Algorithms
+- Version Control Systems: Git, GitHub
+- Effective Communication
+- Time Management
+- Adaptability
+- Problem Solving
+- Continuous Learning
+- Resilience
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Work Experience
+
+### Junior Software Engineer
+**Egyptian Navy Information Systems Department** | May 2023 - Present
+
+- Legacy Web Application Maintenance: Manage and document tasks for a legacy web application built on the .NET framework.
+- Leadership in New System Development: Spearhead a software development team to construct a document archiving system from inception to execution, utilizing Node.js and React.js technologies to deliver a high-performing solution.
+- Innovative Interview Management System Development: Lead the development of an innovative interview management system from scratch, leveraging Node.js, React.js, and TypeScript technologies. Introduces real-time functionality using Socket.io to facilitate instant updates for secretaries and leaders, ensuring efficient communication and coordination during the interview process.
+- Comprehensive REST API Documentation: Create comprehensive documentation for REST APIs using Postman, detailing endpoints, request parameters, response formats, and example usage scenarios.
+- Enhancement of Coding Practice: Improve coding practices by migrating JavaScript codebase to TypeScript, promoting type safety and enhancing code readability.
+
+### Software Engineer Intern
+**Orange Digital Center** | Mar 2023 - May 2023
+
+- Directed the development of robust backend APIs, employing leading-edge technologies like Node.js, Express.js, and Nest.js.
+- Expertly crafted REST APIs tailored to support diverse entities within the system.
+- Orchestrated the database design process, translating UI/UX designs into tangible solutions, and adeptly created Entity-Relationship Diagrams (ERDs) to steer development efforts.
+- Utilized Prisma ORM and TypeORM to architect and deploy MySQL and MongoDB databases, ensuring optimal performance and scalability.
+
+---
+
+## Education
+
+**Bachelor Degree**  
+Faculty of Engineering, Computer and Automatic Control Department  
+Grade: Very Good  
+Graduation Project: Developed a B2C eCommerce website and cross-platform mobile application, utilizing Flutter and Bloc for state management, and integrating Stripe for credit card payments. [Link](https://github.com/yousefshabaneg/mxstore_graduation_project)  
+**Tanta University** | 2022
+
+---
+
+## Courses & Certificates
+
+- Mean Stack Diploma | Tech Experts (Orange Digital Center)
+- Certified In Backend Development Using Node.JS, Express.JS and Angular ODC4245815IN | 2023

@@ -1,9 +1,15 @@
-# Youssef Shaaban Mustafa
-## Software Engineer | Backend Developer | Nodejs Developer
 
+
+<div align="center">
+  <h1>Youssef Shaaban Mustafa</h1> 
+  <a href="http://nestjs.com/" target="blank"><img src="./avatar.JPG" width="320" alt="Nest Logo" /></a>
+  <h3>Software Engineer | Backend Developer | Nodejs Developer</h3>
+</div>
+
+## Contact
 - Phone: +201272220764
 - Email: yousefshaban.eg@gmail.com
-- Resume: [Youssef_Shaaban_SWE_Resume](https://bit.ly/3w3DteJ)
+- Resume: [Google Drive](https://bit.ly/3w3DteJ) | [Github](https://github.com/yousefshabaneg/yousefshabaneg/blob/main/YousefShaban_Software_Engineer.pdf)
 ---
 
 ## Profile Summary

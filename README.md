@@ -2,23 +2,23 @@
 
 <div align="center">
   <h1>Youssef Shaaban Mustafa</h1> 
-  <a href="http://nestjs.com/" target="blank"><img src="./avatar.JPG" width="320" alt="Nest Logo" /></a>
+  <!--<a href="http://nestjs.com/" target="blank"><img src="./avatar.JPG" width="320" alt="Nest Logo" /></a>-->
   <h3>Software Engineer | Backend Developer | Nodejs Developer</h3>
 </div>
 
-## Contact
+## `Contact`
 - Phone: +201272220764
 - Email: yousefshaban.eg@gmail.com
 - Resume: [Google Drive](https://bit.ly/3w3DteJ) | [Github](https://github.com/yousefshabaneg/yousefshabaneg/blob/main/YousefShaban_Software_Engineer.pdf)
 ---
 
-## Profile Summary
+## `Profile Summary`
 
 Motivated Junior Software Engineer with a passion for backend development and a strong foundation in Node.js technologies. Eager to transition into a Node.js Developer role to deepen expertise in backend development and contribute to innovative projects. Proficient in building RESTful APIs, utilizing technologies like Express.js and MongoDB for efficient data storage and retrieval. Skilled in frontend development with React.js, HTML, CSS, and Bootstrap, ensuring seamless user experiences. Demonstrated ability to collaborate effectively within teams, communicate technical concepts clearly, and adapt to new challenges. Committed to continuous learning and professional growth, with a Bachelor's degree in Computer and Automatic Control Engineering providing a solid technical background. Excited to leverage my skills and enthusiasm for Node.js development to make meaningful contributions in a dynamic software engineering environment.
 
 ---
 
-## Professional Skills
+## `Professional Skills`
 
 - Programming Languages: JavaScript, TypeScript
 - Backend Development: Node.js, Express.js, Nest.js
@@ -38,7 +38,7 @@ Motivated Junior Software Engineer with a passion for backend development and a 
 
 ---
 
-## Work Experience
+## `Work Experience`
 
 ### Junior Software Engineer
 **Egyptian Navy Information Systems Department** | May 2023 - Present
@@ -59,7 +59,7 @@ Motivated Junior Software Engineer with a passion for backend development and a 
 
 ---
 
-## Education
+## `Education`
 
 **Bachelor Degree**  
 Faculty of Engineering, Computer and Automatic Control Department  
@@ -69,7 +69,7 @@ Graduation Project: Developed a B2C eCommerce website and cross-platform mobile 
 
 ---
 
-## Courses & Certificates
+## `Courses & Certificates`
 
 - Mean Stack Diploma | Tech Experts (Orange Digital Center)
 - Certified In Backend Development Using Node.JS, Express.JS and Angular ODC4245815IN | 2023

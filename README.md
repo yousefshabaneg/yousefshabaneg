@@ -40,8 +40,11 @@ Motivated Junior Software Engineer with a passion for backend development and a 
 
 ## `Work Experience`
 
+### Software Engineer I
+**IT LAND CANADA** | May 2024 - Present
+
 ### Junior Software Engineer
-**Egyptian Navy Information Systems Department** | May 2023 - Present
+**Egyptian Navy Information Systems Department** | May 2023 - April 2024
 
 - Legacy Web Application Maintenance: Manage and document tasks for a legacy web application built on the .NET framework.
 - Leadership in New System Development: Spearhead a software development team to construct a document archiving system from inception to execution, utilizing Node.js and React.js technologies to deliver a high-performing solution.

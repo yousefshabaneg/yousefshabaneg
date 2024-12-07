@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Youssef Shaaban Mustafa</h1> 
   <!--<a href="http://nestjs.com/" target="blank"><img src="./avatar.JPG" width="320" alt="Nest Logo" /></a>-->
@@ -7,43 +5,50 @@
 </div>
 
 ## `Contact`
+
 - Phone: +201272220764
 - Email: yousefshaban.eg@gmail.com
-- Resume: [Google Drive](https://bit.ly/3w3DteJ) | [Github](https://github.com/yousefshabaneg/yousefshabaneg/blob/main/YousefShaban_Software_Engineer.pdf)
+- Resume: [Google Drive](https://drive.google.com/file/d/1jx8B3ujlTbXlvSuBo2Mtj62esZPz7GGo/view?usp=sharing) | [Github](https://github.com/yousefshabaneg/yousefshabaneg/blob/main/YoussefShaaban_SoftwarEngineer.pdf)
+
 ---
 
 ## `Profile Summary`
 
-Motivated Junior Software Engineer with a passion for backend development and a strong foundation in Node.js technologies. Eager to transition into a Node.js Developer role to deepen expertise in backend development and contribute to innovative projects. Proficient in building RESTful APIs, utilizing technologies like Express.js and MongoDB for efficient data storage and retrieval. Skilled in frontend development with React.js, HTML, CSS, and Bootstrap, ensuring seamless user experiences. Demonstrated ability to collaborate effectively within teams, communicate technical concepts clearly, and adapt to new challenges. Committed to continuous learning and professional growth, with a Bachelor's degree in Computer and Automatic Control Engineering providing a solid technical background. Excited to leverage my skills and enthusiasm for Node.js development to make meaningful contributions in a dynamic software engineering environment.
+Motivated Software Engineer with +1 years of experience in back-end development, specializing in modernizing legacy applications and optimizing database performance. Skilled in designing scalable systems, developing Restful API, and implementing modular architectures. Recognized for spearheading the modernization of a large legacy Nodejs application, enhancing system efficiency, and user experience. Committed to continuous learning and contributing to innovative software projects.
 
 ---
 
 ## `Professional Skills`
 
-- Programming Languages: JavaScript, TypeScript
+- Programming Languages: JavaScript, TypeScript, C#
 - Backend Development: Node.js, Express.js, Nest.js
-- API Development: RESTful API
-- Frontend Development: HTML, CSS, Bootstrap
-- Real-Time Communication: Socket.IO
-- Software Development Life Cycle (SDLC)
-- Databases: MySQL, MSSQL, MongoDB, Mongoose (ODM for MongoDB)
-- Data Structures and Algorithms
-- Version Control Systems: Git, GitHub
-- Effective Communication
-- Time Management
-- Adaptability
-- Problem Solving
-- Continuous Learning
-- Resilience
+- Frontend Skills: HTML, CSS, Bootstrap, Reactjs
+- API Development: RESTful APIs, Real-Time Communication (Socket.IO)
+- Database Management: MySQL, MSSQL, MongoDB, Database Optimization, Query Tuning
+- Testing: Unit Testing (Jest, Mocha), Integration Testing, API Testing (Postman)
+- Cloud Platforms & Serverless: AWS (Lambda, EC2, S3, DynamoDB, CloudWatch, API Gateway)
+- Soft Skills: Effective Communication, Time Management, Adaptability, Problem Solving, Continuous Learning.
+- Version Control Systems: Git, GitHub, Gitlab
+- Documentation & Collaboration: Comprehensive Feature Documentation, Team Collaboration.
 
 ---
 
 ## `Work Experience`
 
 ### Software Engineer I
+
 **IT LAND CANADA** | May 2024 - Present
 
+- Modernization of Legacy Application: Spearheaded the modernization of a large legacy Node.js application, transforming it into a scalable, modular system customizable for various regions and user requirements.
+- Prepaid Card & GSM Charging Systems Development: Designed and developed features for large-scale prepaid card and GSM SIM charging systems, supporting projects for Iraq (Alaimtedad, Noor Alkisaa) and Libya (Fisa).
+- Production Bug Resolution: Identified and resolved critical production bugs, ensuring system reliability and uptime.
+- Performance Optimization: Utilized high-performance optimization techniques to reduce query execution times by up to 90%, improving performance from several minutes to mere seconds, significantly enhancing system efficiency and user experience.
+- Modular System Design: Restructured monolithic code into a modular architecture, setting the foundation for future microservices integration.
+- Feature Development & Documentation: Led the development and enhancement of new features, ensuring all changes in business logic were thoroughly documented.
+- Error Handling & Logging: Implemented advanced error handling mechanisms, customized middleware for error reporting, and improved logging using a centralized logging system. Enhanced overall exception handling practices.
+
 ### Junior Software Engineer
+
 **Egyptian Navy Information Systems Department** | May 2023 - April 2024
 
 - Legacy Web Application Maintenance: Manage and document tasks for a legacy web application built on the .NET framework.
@@ -53,6 +58,7 @@ Motivated Junior Software Engineer with a passion for backend development and a 
 - Enhancement of Coding Practice: Improve coding practices by migrating JavaScript codebase to TypeScript, promoting type safety and enhancing code readability.
 
 ### Software Engineer Intern
+
 **Orange Digital Center** | Mar 2023 - May 2023
 
 - Directed the development of robust backend APIs, employing leading-edge technologies like Node.js, Express.js, and Nest.js.
